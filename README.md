@@ -14,7 +14,7 @@ O fluxo de trabalho básico do Redux é o seguinte:
 
 <h1>Visualização Online</h1>
 A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: https://ebac-sports-one.vercel.app/
+https://ebac-sports-one.vercel.app/
 
 
 ## Skills utilizadas:
